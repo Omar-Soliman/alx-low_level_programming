@@ -4,6 +4,7 @@
  * @size: the number of squeres/number of times
  * Return: empty
  */
+
 void print_square(int size)
 {
 int x, y;
@@ -20,6 +21,6 @@ for (y = 0; y < size; y++)
 _putchar(35);
 }
 _putchar('\n');
-}	
+}
 }
 }
