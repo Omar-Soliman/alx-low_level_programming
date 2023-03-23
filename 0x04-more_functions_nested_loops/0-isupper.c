@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _isupper-cheak if a letter is upper
- * @x: number to be cheaked
- * return 1 or 0
+ * _isupper - cheak if a letter is upper
+ * @x: The  number to be cheaked
+ * Return: 1 for upper letter or 0 for any else
  */
 int _isupper(int x)
 {
