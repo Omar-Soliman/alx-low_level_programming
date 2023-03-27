@@ -20,6 +20,9 @@ char *_strcpy(char *dest, char *src);
 
 int _putchar(char c);
 
+int _atoi(char *s);
+
+
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdio.h>
